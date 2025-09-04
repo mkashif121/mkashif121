@@ -3,6 +3,8 @@
 Authur Kashif Iqbal
 <br>
 Canal Town
+<br>
+Peshawar
 
 <!--
 **mkashif121/mkashif121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
